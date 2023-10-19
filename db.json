@@ -1,0 +1,123 @@
+{
+    "Bilisim": [
+        {
+            "soruMetni":"1-Hangisi javascript paket yönetim uygulasıdır?","cevapSecenekleri" : {
+                "a": "Node.js", 
+                "b": "Typescript", 
+                "c": "Npm" , 
+                "d": "Nuget"
+            } , 
+                "dogruCevap" : "c"
+        },
+        {
+            "soruMetni":"2-Node.js hangi dilde yazılmıştır?","cevapSecenekleri" : {
+                "a": "C", 
+                "b": "Javascript", 
+                "c": "C++" , 
+                "d": "Python"
+            } , 
+                "dogruCevap" : "b"
+        },
+        {
+            "soruMetni":"3-Aşağıdaki komutlardan hangisi yerel olarak kurulu tüm modülleri gösterir?",
+            "cevapSecenekleri" : {
+                "a": "npm ls -g", 
+                "b": "node ls", 
+                "c": "npm ls" , 
+                "d": "node ls -g"
+            } , 
+                "dogruCevap" : "c"
+        },
+        {
+            "soruMetni":"4-Aşağıdaki modüllerden hangisi Node.js'de yerleşik bir modül değildir?",
+            "cevapSecenekleri" : {
+                "a": "zlib", 
+                "b": "HTTPS", 
+                "c": "dgram" , 
+                "d": "fsread"
+            } , 
+                "dogruCevap" : "d"
+        }
+    ],
+    "gk" : [
+        {
+            "soruMetni":"1-'Beni öldürmeyen acı güçlendirir' hangi ünlü düşünürün sözüdür","cevapSecenekleri" : {
+                "a": "Nietzsche", 
+                "b": "Freud", 
+                "c": "Marx" , 
+                "d": "Spinoza"
+            } , 
+                "dogruCevap" : "a"
+        },
+        {
+            "soruMetni":"2-Uzay'a giden ilk insan kimdir?",
+            "cevapSecenekleri" : {
+                "a": "Sally Rider", 
+                "b": "Neil Armstrong", 
+                "c": "Yuri Gagarin" , 
+                "d": "Aleksey Leonov"
+            } , 
+                "dogruCevap" : "c"
+        },
+        {
+            "soruMetni":"3-Avokado savaşlarının yaşandığı ülke hangisidir?","cevapSecenekleri" : {
+                "a": "Uruguay", 
+                "b": "Meksika", 
+                "c": "Brezilya" , 
+                "d": "Arjantin"
+            } , 
+                "dogruCevap" : "b"
+        },
+        {
+            "soruMetni":"4-Hangi ülkenin resmi dili yoktur?",
+            "cevapSecenekleri" : {
+                "a": "Kanada", 
+                "b": "İran", 
+                "c": "Fransa" , 
+                "d": "ABD"
+            } , 
+                "dogruCevap" : "d"
+        }
+
+    ],
+    "bilim": [
+        {
+            "soruMetni":"1-Hangisi periyodik tabloda bulunan bir element değildir?","cevapSecenekleri" : {
+                "a": "Hidrojen", 
+                "b": "Oksijen", 
+                "c": "Su" , 
+                "d": "Azot"
+            } , 
+                "dogruCevap" : "c"
+        },
+        {
+            "soruMetni":"2-Hangisi kuvvet birimidir?",
+            "cevapSecenekleri" : {
+                "a": "Newton", 
+                "b": "Joule", 
+                "c": "Pascal" , 
+                "d": "Calori"
+            } , 
+                "dogruCevap" : "a"
+        },
+        {
+            "soruMetni":"3-Bir elektrik devresinde direnç hangi harfle gösterilir?","cevapSecenekleri" : {
+                "a": "C", 
+                "b": "A", 
+                "c": "D" , 
+                "d": "R"
+            } , 
+                "dogruCevap" : "d"
+        },
+        {
+            "soruMetni":"4-1’in türevi kaçtır?",
+            "cevapSecenekleri" : {
+                "a": "-1", 
+                "b": "0", 
+                "c": "1" , 
+                "d": "2"
+            } , 
+                "dogruCevap" : "b"
+        }
+    ]
+}
